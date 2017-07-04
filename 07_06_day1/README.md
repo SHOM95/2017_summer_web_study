@@ -14,8 +14,8 @@
 * 과제 설명(5)
 
 ### 자료
-웹의 역사 관련: [site1], [site2(나무위키)], [site3(생활코딩)]
-환경 설정 관련: [아톰 필수 패키지들]
+* 웹의 역사 관련: [site1], [site2(나무위키)], [site3(생활코딩)]
+* 환경 설정 관련: [아톰 필수 패키지들]
 
 
 [site1]: <http://www.betterweb.or.kr/blog/%EC%9B%B9%EA%B3%BC-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%9B%B9%EC%9D%98-%EC%97%AD%EC%82%AC/>
