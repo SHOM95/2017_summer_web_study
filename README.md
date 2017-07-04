@@ -1,2 +1,12 @@
 # 2017_summer_web_study
-본 repository 는 여름방학 웹스터디를 위해 생성되었으며, Web 구조, Web 역사, Web 개발 공부를 목적으로 한다.
+
+### 목적
+스터디장을 포함한 스터디원 전원이 Web의 역사, 구조 를 알고,
+이를 응용하여 기본적인 웹사이트 개발 능력을 익히는 것에 있다.
+
+### 주로 다룰 것
+* Web의 역사
+* Web의 구조
+* HTML (BOOTSTRAP)
+* Javascript
+* Node.js (Express.js)
