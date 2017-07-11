@@ -1,0 +1,62 @@
+body {
+    background-color: #000000;    /* set background black */
+}
+div.center {
+    width: 360px;
+    margin: 0 auto;
+}
+
+.layout-head {
+    width: inherit;
+}
+
+#logo {
+    color: #c7dd17;
+    font-size: 250%;
+    font-weight: 900;    /* max bold */
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#logo:hover {
+    color: #9bac14;
+}
+
+.layout-body {
+    width: inherit;
+    display: inline-block;
+}
+
+.id-box {
+    margin-bottom: 30px;
+}
+
+.text {
+    height: 25px;
+    width: 280px;
+    background-color: #000000;
+    margin-right: 10px;
+}
+
+.btn-register {
+    font-size: 12px;
+    color: #27ab00;
+    border-style: none;
+    background-color: #000000;
+    width: inherit;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-top: 5px;
+}
+
+.btn-login {
+    font-size: 12px;
+    color: #96d400;
+    border-style: none;
+    background-color: #000000;
+    width: inherit;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-top: 5px;
+}
