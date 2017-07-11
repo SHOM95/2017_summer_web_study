@@ -34,3 +34,10 @@ Webhacking.kr 메인 페이지 구현. (최대한 비슷하게 만들기)
 * 로고에 마우스를 가져다 두었을 때 색깔 변경이 동적으로 되는지 체크할 예정. (힌트: css hover 검색)
 * 심화(이건 구현 실패해도 과제는 한걸로 하겠습니다): 화면 상의 숫자가 동적으로 생기는지 안생기는지 체크할 예정. (javascript DOM 검색)
 * 심화(이건 구현 실패해도 과제는 한걸로 하겠습니다): 화면 상의 숫자가 100자리가 되었을 때 0 들이 1로 바뀌면서 색깔이 바뀌는지 체크할 예정.
+
+과제는 메일로 제출 : tghks905@hanyang.ac.kr
+
+기한 : 금욜 스터디 전까지
+
+
+* 과제 수행시, 수행하기전에 w3cschool Javascript tutorial 부분에서 'JS HOME' ~ 'JS Random', JS Functions 전부, JS HTML DOM 의 'DOM Intro' ~ 'DOM HTML' 까지 보면 좋음. 생활 코딩 Javascript 부분도 봐주세요. 'DOM Events' 나 'DOM Event Listener' 를 참고해야할수도 있음.
