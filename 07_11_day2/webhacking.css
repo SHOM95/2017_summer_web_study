@@ -1,0 +1,56 @@
+body {    /* 태그 이름의 경우 그냥 쓰고 괄호 열기 */
+    background-color: black;
+}
+
+.layout {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.layout-header {
+    width: inherit;
+    margin-top: 100px;
+}
+
+.layout-top-matrix {
+    width: inherit;
+    margin-top: 80px;
+}
+
+.layout-form {
+    width: inherit;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-logo {    /* 클래스 명의 경우 . 찍고 쓰고 괄호 열기 */
+    /* #1DDB16 */
+    color: #00e000;
+    font-size: 30pt;
+    font-family: impact;
+    text-align: center;
+}
+
+.text-matrix {
+    color: white;
+    font-size: 8pt;
+    text-align: center;
+}
+
+.btn-login {
+    color: yellow;
+    background-color: black;
+    border-style: none;
+}
+
+.text {
+    background-color: black;
+    border-color: white;
+    border-style: solid;
+}
+
+.text-credit {
+    color: grey;
+    font-size: small;
+}
