@@ -4,11 +4,6 @@
         <meta charset="utf-8">
         <link rel="stylesheet" href="./webhacking.css">
         <title>Webhacking.kr - Oldzombie</title>
-        <script type="text/javascript">
-            function login() {
-                alert("hello");
-            }
-        </script>
     </head>
     <body>
         <div class="layout">
@@ -29,15 +24,14 @@
                 <!--
                     주석 처리 방법
                 -->
-                <form class="form-main" action="index.html" method="post">
-                    <div class="box-id">
-                        <input type="text" class="text text-id" name="id">
-                    </div>
-                    <div class="box-password">
-                        <input type="text" class="text text-password" name="password">
-                        <input type="button" class="btn-login" name="login" value="Login" onclick="login()">
-                    </div>
-                </form>
+                <!--정확히 모르겠음..-->
+                <div class="box-id">
+                    <input type="text" class="text text-id" name="id">
+                </div>
+                <div class="box-password">
+                    <input type="text" class="text text-password" name="password">
+                    <button class="btn-login" name="login" onclick="login()">Login</button>
+                </div>
             </div>
             <div class="layout-bottom-matrix">
                 <div class="text-matrix" id="text-mat3">
@@ -53,5 +47,12 @@
                 </div>
             </div>
         </div>
+
+        <script type="text/javascript">
+        function login(){
+            console.log("what");
+            alert("hello");
+        }
+        </script>
     </body>
 </html>
