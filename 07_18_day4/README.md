@@ -6,7 +6,7 @@
 * jQuery 기초(15)
 * 향 후 스터디 운영 방안 함께 결정
 
-### 과제
+### 과제 (다음주 화요일까지)
 * 안본사람 생활코딩 끝까지 다 볼 것 (필수)
 * w3cschool (jQuery 부분) jQuery Tutorial 전부
 * w3cschool (jQuery 부분) jQuery HTML 전부
